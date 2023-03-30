@@ -1,0 +1,29 @@
+To obtain an identity token in Artifactory, you can follow these steps:
+
+Log in to Artifactory as a user with sufficient permissions.
+
+Click on your username in the top right corner and select "Edit Profile."
+
+In the "Access Tokens" tab, click on the "New" button.
+
+Enter a name for your token and select the appropriate scope (e.g., read, write, deploy).
+
+Click on "Create" to generate the token.
+
+Copy the token and save it in a secure location.
+
+Frog:
+
+To obtain an identity token in Frog, you can follow these steps:
+
+Log in to Frog as a user with sufficient permissions.
+
+Click on your username in the top right corner and select "Account Settings."
+
+In the "API Tokens" tab, click on the "Generate New Token" button.
+
+Enter a name for your token and select the appropriate permissions (e.g., read-only, read-write).
+
+Click on "Generate Token" to generate the token.
+
+Copy the token and save it in a secure location.
